@@ -2,7 +2,6 @@
 
 <hr>
 
-
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Bytebank: o seu banco digital!</p>
 
